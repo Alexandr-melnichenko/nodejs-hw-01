@@ -1,1 +1,30 @@
-[]
+[
+  {
+    "id": "c8363f90-db78-4a82-a932-a54b1d0bf1f4",
+    "name": "Roxanne Metz",
+    "phone": "1-290-912-4302 x263",
+    "email": "Krista_Cole@yahoo.com",
+    "job": "Senior Communications Coordinator"
+  },
+  {
+    "id": "6d3613cf-00c1-4d55-8a5a-5817ca285c6a",
+    "name": "Mr. Edmond Brakus",
+    "phone": "561-696-9982 x4466",
+    "email": "Cornell_Gerhold@gmail.com",
+    "job": "Future Interactions Strategist"
+  },
+  {
+    "id": "47614302-a609-42aa-8e3c-8ae3f3e9655b",
+    "name": "Christopher Nikolaus",
+    "phone": "698.994.5614",
+    "email": "Cara_Green@hotmail.com",
+    "job": "Central Branding Liaison"
+  },
+  {
+    "id": "585b75de-b3e0-40be-8922-9085dc6af3a9",
+    "name": "Vivian Rolfson",
+    "phone": "(447) 841-3321 x544",
+    "email": "Elisa89@yahoo.com",
+    "job": "District Solutions Planner"
+  }
+]
